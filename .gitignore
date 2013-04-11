@@ -1,0 +1,15 @@
+# Ignore eclipse project
+.project
+.cproject
+
+# Ignore CMake related
+CMakeCache*
+CMakeFiles/
+Makefile
+
+# Ignore some directories
+bin/
+dump/
+common/
+external/
+resource/
